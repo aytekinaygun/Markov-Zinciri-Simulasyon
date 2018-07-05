@@ -13,9 +13,9 @@ random.shuffle(durum_torbasi_0)
 
 # Durum 1 torbasına 65 siyah, 35 beyaz bilye koyalım
 durum_torbasi_1 = []
-for i in range(0,50):
+for i in range(0,65):
     durum_torbasi_1.append("Siyah")
-for i in range(0,50):
+for i in range(0,35):
     durum_torbasi_1.append("Beyaz")
 
 # Durum 1 torbasını karıştırıp bilyeleri rastgele sırayalım.
